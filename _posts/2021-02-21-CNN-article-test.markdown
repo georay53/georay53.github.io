@@ -31,6 +31,18 @@ categories: AI CNN
     $$
         f(x) = max(0, x)
     $$
+    
+    <img src="http://latex.codecogs.com/gif.latex? f(x) = max(0, x)" />
+
+    作者：Deep Reader
+    链接：https://www.zhihu.com/question/26887527/answer/43166739
+    来源：知乎
+    著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+    
+    作者：Deep Reader
+    链接：https://www.zhihu.com/question/26887527/answer/43166739
+    来源：知乎
+    著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。)
 
 - $Relu$ 函数图像如下图所示：
     <div align="middle">
