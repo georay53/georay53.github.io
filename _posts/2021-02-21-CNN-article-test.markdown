@@ -1,13 +1,8 @@
----
-layout: post
-title:  "CNN卷积神经网络（Convolutional Neural Network）"
-date:   2021-02-20 00:09:36 +0530
-categories: AI CNN
 ----------
 
 > * 1.前言
-> * 2.激活函数$Relu$
-> * 3.全连接网络 $VS$ 卷积网络
+> * 2.激活函数\(Relu\)
+> * 3.全连接网络 \(VS\) 卷积网络
 > * 4.卷积神经网络是啥
 > * 5.卷积神经网络输出值的计算
 > * 6.卷积神经网络的训练
@@ -27,22 +22,10 @@ categories: AI CNN
 
 ## 2.激活函数$Relu$
 
-- 最近几年卷积神经网络中，激活函数往往不选择 $sigmoid$ 或 $tanh$ 函数，而是选择 **$Relu$ 函数**。$Relu$ 函数的定义是：
+- 最近几年卷积神经网络中，激活函数往往不选择 \(sigmoid\) 或 \(tanh\) 函数，而是选择 **\(Relu\) 函数**。$Relu$ 函数的定义是：
     $$
         f(x) = max(0, x)
     $$
-    
-    <img src="http://latex.codecogs.com/gif.latex? f(x) = max(0, x)" />
-
-    作者：Deep Reader
-    链接：https://www.zhihu.com/question/26887527/answer/43166739
-    来源：知乎
-    著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-    
-    作者：Deep Reader
-    链接：https://www.zhihu.com/question/26887527/answer/43166739
-    来源：知乎
-    著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。)
 
 - $Relu$ 函数图像如下图所示：
     <div align="middle">
