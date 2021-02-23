@@ -13,8 +13,6 @@ sass:
 plainwhite:
   name: Kaicheng Zhang
   tagline: AI and Quantitative Investment Developer
-  resume_addr: Resume
-  portfolio_addr: Portfolio
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
